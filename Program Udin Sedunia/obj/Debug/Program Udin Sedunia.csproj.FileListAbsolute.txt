@@ -1,0 +1,7 @@
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\bin\Debug\Program Udin Sedunia.exe
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\bin\Debug\Program Udin Sedunia.pdb
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\obj\Debug\Program Udin Sedunia.csprojResolveAssemblyReference.cache
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\obj\Debug\Program_Udin_Sedunia.MainForm.resources
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\obj\Debug\Program Udin Sedunia.csproj.GenerateResource.Cache
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\obj\Debug\Program Udin Sedunia.exe
+E:\Data Visual Studio Community\Program Udin Sedunia\Program Udin Sedunia\obj\Debug\Program Udin Sedunia.pdb
